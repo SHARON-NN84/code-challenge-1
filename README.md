@@ -33,7 +33,7 @@ Follow the on-screen prompts.
 Watch the magic happen. ✨
 
 👩🏽‍💻 Author
-Created with 💖, JavaScript, and a lot of Kenyan love by [Your Name Here]
+Created with 💖, JavaScript, and a lot of Kenyan love by [mumbi sharon njeri]
 Coding daily life one script at a time.
 
 📝 License
